@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomTreeList.cs](./CS/WindowsApplication3/CustomTreeList.cs) (VB: [CustomTreeList.vb](./VB/WindowsApplication3/CustomTreeList.vb))**
+* [Record.cs](./CS/WindowsApplication3/Data/Record.cs) (VB: [Record.vb](./VB/WindowsApplication3/Data/Record.vb))
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+<!-- default file list end -->
 # How to show the Filter Panel on top
 
 
